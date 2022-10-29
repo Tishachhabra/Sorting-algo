@@ -1,2 +1,2 @@
 # Sorting-algo
-##This repo contain programs of sorting arrays
+### This repo contain programs of sorting arrays
